@@ -14,7 +14,7 @@ Welcome to Week 2 of the Frontier Model APIs course! This Jupyter notebook demon
 
 1. **Clone or Fork this repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Mechantchulo/eucosaa-openai-tech-session.git
    cd eucossa
    ```
 
